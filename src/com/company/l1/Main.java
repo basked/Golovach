@@ -57,6 +57,6 @@ public class Main {
         // тоже что и
         String s2 = new String(new char[]{'H', 'e', 'l', 'l', 'o'}, 0, 5);
         System.out.println(s2);
-
+   
     }
 }
