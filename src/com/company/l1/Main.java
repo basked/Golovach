@@ -29,6 +29,10 @@ public class Main {
         System.out.println(a[2]);
         System.out.println(a[6]); // -->>0 хотя иниц-но  только до 5 го элемента
 
+
+        int[][] k ={{7},{66}};
+        System.out.println("Default init "+Arrays.deepToString(k));
+
         //  Объекты
         Object[] o = new Object[3];
         System.out.println(o[0]);
