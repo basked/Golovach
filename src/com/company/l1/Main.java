@@ -54,9 +54,9 @@ public class Main {
 
         String s1 = "Hello";  // "Hello" - это литерал для строк
         System.out.println(s1.toUpperCase());
-        // тоже что и
+        // тоже что и такой вариант
         String s2 = new String(new char[]{'H', 'e', 'l', 'l', 'o'}, 0, 5);
         System.out.println(s2);
-   
+
     }
 }
