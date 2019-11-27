@@ -30,7 +30,7 @@ public class Main {
         System.out.println(a[6]); // -->>0 хотя иниц-но  только до 5 го элемента
 
 
-        int[][] k ={{7},{66}};
+        int[]k[]  ={{7},{66}}; // так тоже можно объявить массив
         System.out.println("Default init "+Arrays.deepToString(k));
 
         //  Объекты
